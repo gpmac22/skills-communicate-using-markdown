@@ -12,3 +12,12 @@ I added a new header to the file and experiment with different sizes of the head
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` python
+var myVar = "Welcome to my world!";
+```
