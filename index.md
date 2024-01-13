@@ -10,9 +10,10 @@
 
 I added a new header to the file and experiment with different sizes of the headers 
 
-
+#images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+#Step 3
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -21,3 +22,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` python
 var myVar = "Welcome to my world!";
 ```
+
+#Task
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
